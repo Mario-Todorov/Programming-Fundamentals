@@ -1,1 +1,1 @@
-# Programming-Fundamentals
+# Tasks of the Programming Fundamentals course in SoftWare University.
